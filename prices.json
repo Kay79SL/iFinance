@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-30T01:02:30.712679+00:00",
-  "updated_date": "2026-09-30",
+  "updated_at": "2026-10-01T01:03:08.408970+00:00",
+  "updated_date": "2026-10-01",
   "source": "Yahoo Finance via yfinance",
   "prices": {
     "ABBV": {
       "ticker": "ABBV",
-      "price": 266.28,
-      "previous_close": 264.34,
-      "change": 1.94,
-      "change_pct": 0.7339,
+      "price": 263.29,
+      "previous_close": 266.28,
+      "change": -2.99,
+      "change_pct": -1.1229,
       "currency": "USD"
     },
     "LLY": {
       "ticker": "LLY",
-      "price": 1184.78,
-      "previous_close": 1183.46,
-      "change": 1.3201,
-      "change_pct": 0.1115,
+      "price": 1184.63,
+      "previous_close": 1184.78,
+      "change": -0.15,
+      "change_pct": -0.0127,
       "currency": "USD"
     },
     "ABT": {
       "ticker": "ABT",
-      "price": 100.98,
-      "previous_close": 101.29,
-      "change": -0.31,
-      "change_pct": -0.306,
+      "price": 100.95,
+      "previous_close": 100.98,
+      "change": -0.03,
+      "change_pct": -0.0297,
       "currency": "USD"
     }
   }

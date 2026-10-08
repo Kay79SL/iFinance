@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-07T01:12:20.726377+00:00",
-  "updated_date": "2026-10-07",
+  "updated_at": "2026-10-08T01:32:40.392167+00:00",
+  "updated_date": "2026-10-08",
   "source": "Yahoo Finance via yfinance",
   "prices": {
     "ABBV": {
       "ticker": "ABBV",
-      "price": 265.76,
-      "previous_close": 262.82,
-      "change": 2.94,
-      "change_pct": 1.1186,
+      "price": 266.69,
+      "previous_close": 265.76,
+      "change": 0.93,
+      "change_pct": 0.3499,
       "currency": "USD"
     },
     "LLY": {
